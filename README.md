@@ -2,7 +2,7 @@
 
 A modern web application that generates professional weekly reports using OpenAI's GPT-3.5-turbo. Input your tasks, choose a style, and get a polished markdown report in seconds.
 
-![Screenshot Placeholder](docs/screenshot.png)
+![App Screenshot](docs/screenshot.png)
 
 ## Features
 
